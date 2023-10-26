@@ -1,0 +1,15 @@
+git init 初始化本地仓库
+
+git add 提交到暂存区
+git commit -m ["备注"] [文件等] 提交到本地库
+git reset 回退
+git branch 操作分支
+git merge 合并分支
+
+git diff 查看变动
+git log 查看日志
+git status 查看状态
+
+git push [远程库] [远程库分支] 推送远程库
+
+git remote [别名] [远程库链接] 给远程库起别名
